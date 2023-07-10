@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bx9zrikih9xY8D/PRxLPB9BXyJLOet0YSV1SzZeBvzNW5zzPm5Rm58bZ88Vkc1NMm5lEkLtuumSfwqiJWdnVoQ==",
+  "success": true,
+  "projectFilePath": "F:\\asp\\asac\\lab\\09\\LINQManhattan\\LINQManhattan\\LINQManhattan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COP\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.8\\microsoft.aspnetcore.jsonpatch.7.0.8.nupkg.sha512",
+    "C:\\Users\\COP\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.8.nupkg.sha512",
+    "C:\\Users\\COP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\COP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\COP\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
